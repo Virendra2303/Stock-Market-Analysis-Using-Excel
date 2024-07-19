@@ -1,6 +1,8 @@
 # Stock-Market-Analysis-Using-Excel
 [Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset/data)
 
+[Dashboard-Excel](https://github.com/Virendra2303/Stock-Market-Analysis-Using-Excel/blob/main/Stocks%20Market%20Analysis(Excel).xlsx)
+
 ## Description
 This project delves into the world of the stock market by analyzing a dataset from Kaggle. Using Excel and guided by data science principles, we will identify areas where investments can be optimized to reduce risks and increase returns. This exploration will aid in understanding market dynamics and potentially inform strategic investment decisions.
 
