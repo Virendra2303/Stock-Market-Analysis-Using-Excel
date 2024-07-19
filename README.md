@@ -10,26 +10,26 @@ This project delves into the world of the stock market by analyzing a dataset fr
 
 ## Overview
 
-![0](https://i.imgur.com/KkW9kA4.png)
+![0](https://i.imgur.com/GbNilRx.png)
 
 ## Analysis
 ## 1)Return of a company over a day:
 
 **On the day for which the data is recorded, we can see that majority of the companies gave negative returns**
 
-![1](https://i.imgur.com/bJjQY5m.png)
+![1](https://i.imgur.com/zsb3hRy.png)
 
 ## 2)Return of a company over a Month:
 
 **we can find that majority of the companies have shown negative returns if stayed invested for a month in it.**
 
-![2](https://i.imgur.com/O7my3LH.png)
+![2](https://i.imgur.com/0igKrUm.png)
 
 ## 3)Return of a company over a Year:
 
 **we can find that majority of the companies have shown atleast 10% returns if stayed invested for a year in it**
 
-![3](https://i.imgur.com/AL7lPe0.png)
+![3](https://i.imgur.com/dUXQTzG.png)
 
 ## 4)Distribution of industry:
 
